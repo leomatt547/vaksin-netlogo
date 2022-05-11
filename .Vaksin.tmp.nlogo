@@ -69,7 +69,7 @@ end
 
 ;; This sets up basic constants of the model.
 to setup-constants
-  set lifespan 72 * 52      ;; 72 times 52 weeks = 72 years = 3744 weeks old average
+  set lifespan 5 * 52      ;; 50 times 52 weeks = 50 years = 2600 weeks old
   set carrying-capacity 300
   set chance-reproduce 1
   set immunity-duration 52
